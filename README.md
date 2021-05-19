@@ -9,4 +9,4 @@ Here at ABlazingEBoy Evil Incorporated, we churn out only the finest, most artis
 
 ###### Stats
 
-[![eboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablazingeboy)](https://github.com/anuraghazra/github-readme-stats)
+[![eboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablazingeboy&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
