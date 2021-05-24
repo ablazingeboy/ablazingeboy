@@ -5,7 +5,7 @@ Here at ABlazingEBoy Evil Incorporated, we churn out only the finest, most artis
 ###### Contact Info
 
 - ablazingeboy#7375 on Discord (checked often)
-- ablazingeboy@gmail.com (not checked often)
+- ablazingeboy@protonmail.com (not checked often)
 
 ###### Stats
 
